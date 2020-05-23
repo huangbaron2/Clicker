@@ -40,6 +40,14 @@
       "incomePerSecond": 2000,
       "initialCost": 100000,
       "priceExponent": 1.01
+    },
+    {
+      "id": "newMachine",
+      "name": "Way better machine",
+      "incomePerClick": 50000,
+      "incomePerSecond": 100000000,
+      "initialCost": 5,
+      "priceExponent": 10000
     }
   ]
 }
